@@ -10,4 +10,4 @@ spring:
   application:
     name: demo-app
     
-test.property: test-new
+test.property: test-refresh
