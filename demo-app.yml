@@ -10,4 +10,4 @@ spring:
   application:
     name: demo-app
     
-test.property: test-refresh
+test.property: '{cipher}AQAudVQIpCXIuAQHJPqcUtBtR5dqMG4U9e2ohBhCYkzn08Z9rcBLF4a9ad0x7FPw4Dv7NT6stLQm7xXtWTGAury3kBUt+lPpVSdB/Df11tB6HD5BBeC9v+C1zbVeHOLcWzH03aBNxIidjj/90dScu1iGlyNs2Ql0VrM7XwajGWRJ2TIjjybFBzit+UJQZrhnmuHohb+YG6VgErBquvIWKKiC31ot1wf4L8sncKnsVemMzQ+yAeugaZaWYIsE6I0PayPk1UuoNv34gwgzknWnDLfwKsXQhZ2pVZsKBgAmeKwbU8I3bo1TLCa6Ekz8xGJ9bAN/e4ZyvhyllSzWLjdWke0Kuj24lguTrnRYNGGlUwSH342BDs9RGSjXWfEXmVMdMnk='
